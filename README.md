@@ -1,9 +1,5 @@
 # Fusion MCP Servers
 
-<div>
-The awesome MCP servers powered by fusion AI.
-</div>
-
 <div align="center">
   <a href="https://github.com/fusion-tech-org/fusion-mcp-server/tree/main" target="_blank">
     <img alt="fusion AI" width="50%" src="https://github.com/fusion-tech-org/fusion-mcp-server/blob/main/public/FusionAI-logo.png"/>
